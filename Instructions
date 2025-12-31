@@ -1,0 +1,5 @@
+After setting your Arduino IDE to the ESP32S3 Sense, Go into File-Examples-ESP32-Camera-CameraWebServer  
+Select the CameraWebServer preset and then copy and paste the Main.ino file code from this repository into the CameraWebServer.ino File and dont touch any other files.
+Set your wifi info and server ip info. AI can help you with the server ip info. Do not put your wifi password into AI chat.
+Flash ESP.
+Done.
